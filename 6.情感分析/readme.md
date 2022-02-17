@@ -1,0 +1,2 @@
+- 学习导航地址：https://www.paddlepaddle.org.cn/tutorials/projectdetail/1525491#anchor-12
+- 文本数据集地址：https://dataset.bj.bcebos.com/imdb%2FaclImdb_v1.tar.gz

@@ -1,0 +1,3 @@
+- [自然语言处理基础学习地址：](https://www.paddlepaddle.org.cn/tutorials/projectdetail/2201246#anchor-6)
+- SkipGram模型
+- [文本数据集：](https://dataset.bj.bcebos.com/word2vec/text8.txt)

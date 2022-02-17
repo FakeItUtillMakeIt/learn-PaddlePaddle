@@ -1,0 +1,1 @@
+百度飞桨预训练模型地址：https://www.paddlepaddle.org.cn/hublist
