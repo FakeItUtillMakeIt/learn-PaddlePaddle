@@ -15,5 +15,5 @@ python版本的主程序是main_yolov5.py，C++版本的主程序是main_yolo.cp
 下载完成pth文件后，运行convert_onnx.py就可以生成.onnx文件，这个程序需要依赖pytorch1.7.0框架，如果pytorch版本低了，程序运行会报错。</br>
 因为在yolov5里有新的激活函数，旧版本pytorch可能不支持。</br>
 
-在编写这套程序时，遇到的bug和解决办法，可以阅读我的csdn博客</br>
+在编写这套程序时，遇到的bug和解决办法，可以阅读这篇csdn博客</br>
 https://blog.csdn.net/nihate/article/details/112731327</br>
